@@ -1,1 +1,2 @@
 NowyPlik
+Dodatkowa zmiana po utworzeniu brancha testing i powrocie do mastera.
